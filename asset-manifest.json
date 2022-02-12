@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DennyZ24/goit-react-hw-02-feedback/static/css/main.7acaea2f.css",
-    "main.js": "/DennyZ24/goit-react-hw-02-feedback/static/js/main.af52c538.js",
+    "main.css": "/DennyZ24/goit-react-hw-02-feedback/static/css/main.b1a60684.css",
+    "main.js": "/DennyZ24/goit-react-hw-02-feedback/static/js/main.e2d7b51b.js",
     "static/js/787.461ae4cb.chunk.js": "/DennyZ24/goit-react-hw-02-feedback/static/js/787.461ae4cb.chunk.js",
     "index.html": "/DennyZ24/goit-react-hw-02-feedback/index.html",
-    "main.7acaea2f.css.map": "/DennyZ24/goit-react-hw-02-feedback/static/css/main.7acaea2f.css.map",
-    "main.af52c538.js.map": "/DennyZ24/goit-react-hw-02-feedback/static/js/main.af52c538.js.map",
+    "main.b1a60684.css.map": "/DennyZ24/goit-react-hw-02-feedback/static/css/main.b1a60684.css.map",
+    "main.e2d7b51b.js.map": "/DennyZ24/goit-react-hw-02-feedback/static/js/main.e2d7b51b.js.map",
     "787.461ae4cb.chunk.js.map": "/DennyZ24/goit-react-hw-02-feedback/static/js/787.461ae4cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.af52c538.js"
+    "static/css/main.b1a60684.css",
+    "static/js/main.e2d7b51b.js"
   ]
 }
